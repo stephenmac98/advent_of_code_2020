@@ -11,7 +11,7 @@ INPUT_DIR="${SOURCE_DIR}/input/"
 # Check if there was any input
 if [ $# -eq 0 ]
 then
-	run_range 1-100
+	run_range 1-25
 fi
 
 # Loop through all of the inputs
